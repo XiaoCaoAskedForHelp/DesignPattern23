@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Pattern", "Factory Pattern\Factory Pattern.csproj", "{674C155A-4626-424E-8FCB-49745D12F4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{5F307B59-CC25-4C38-93AD-A8FB9F047AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTest", "ExpressionTest\ExpressionTest.csproj", "{BD8C51D2-DF1D-4662-A163-80A14453EFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Pattern", "Singleton Pattern\Singleton Pattern.csproj", "{CC1478E8-B20E-470C-8422-8E13DE7376DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674C155A-4626-424E-8FCB-49745D12F4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674C155A-4626-424E-8FCB-49745D12F4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674C155A-4626-424E-8FCB-49745D12F4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674C155A-4626-424E-8FCB-49745D12F4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F307B59-CC25-4C38-93AD-A8FB9F047AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F307B59-CC25-4C38-93AD-A8FB9F047AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F307B59-CC25-4C38-93AD-A8FB9F047AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F307B59-CC25-4C38-93AD-A8FB9F047AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8C51D2-DF1D-4662-A163-80A14453EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8C51D2-DF1D-4662-A163-80A14453EFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8C51D2-DF1D-4662-A163-80A14453EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8C51D2-DF1D-4662-A163-80A14453EFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1478E8-B20E-470C-8422-8E13DE7376DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1478E8-B20E-470C-8422-8E13DE7376DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1478E8-B20E-470C-8422-8E13DE7376DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1478E8-B20E-470C-8422-8E13DE7376DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
